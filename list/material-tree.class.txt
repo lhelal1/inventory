@@ -1,0 +1,43 @@
+1. Categoria Principal
+   - Ferramentas (F)
+   - Materiais de Medição, Eletrônica e TI (M)
+   - Materiais de Armazenagem e EPIs (A)
+
+2. Se Ferramentas (F)
+   2.1. Subcategoria 1: Área de Aplicação
+        - Eletricidade (FE)
+        - Mecânica (FM)
+        - Eletrônica (FELE)
+        - TI (FT)
+        - Administrativa (FA)
+
+3. Se Eletricidade (FE)
+   3.1. Subcategoria 2: Tipo de Ferramenta
+        - Manuais (FEM)
+        - Elétricas (FEE)
+        - de Medição (FEME)
+
+4. Se Manuais (FEM)
+   4.1. Subcategoria 3: Tipo de Ferramenta Manual
+        - Chaves (FEMC)
+        - Alicates (FEMA)
+
+5. Se Chaves (FEMC)
+   5.1. Subcategoria 4: Tipo de Chave
+        - Fenda (FEMCF)
+        - Philips (FEMCP)
+        - Allen (FEMCA)
+        - Torx (FEMCT)
+
+6. Se Tipo de Chave Escolhido (Ex: FEMCP)
+   6.1. Subcategoria 5: Complementação sobre Isolamento
+        - Comum (FEMCP-C)
+        - VDE (FEMCP-V)
+        - Isolado não VDE (FEMCP-I)
+
+7. Se Complementação sobre Isolamento Escolhido (Ex: FEMCP-V)
+   7.1. Opção 6: Anotações Gerais
+        - Espaço para digitar informações adicionais
+
+8. Geração de Identificador Final
+   - Concatenação dos códigos escolhidos + Número Sequencial (Ex: FEMCP-V-01)

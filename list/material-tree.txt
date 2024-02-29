@@ -1,0 +1,112 @@
+Materials Tree
+
+Ferramentas
+|-- Ferramentas Manuais
+|   |-- Chaves de Fenda -- a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Chaves Philips -- a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Chaves Pozidriv
+|   |-- Chaves Allen
+|   |-- Chaves Torx
+|   |-- Chaves Catraca
+|   |-- Chaves de Boca
+|   |-- Chaves Hexagonais 
+|   |-- Martelos Comunså
+|   |-- Materlos de Fibra
+|   |-- Martelos de Eletronica
+|   |-- Alicates Universais a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Alicates de Corte a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Alicates de Bico a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Alicates de Eletronica
+|   |-- Alicates Decapadores 
+|   |-- Alicates Crimpadores Eletricos Universais
+|   |-- Alicates Crimpadores Eletricos Tubular (Ilhos)
+|   |-- Alicates Crimpadores RJ45 e RJ11
+|   |-- Alicates de Eletronica
+|   |-- Chaves de Fenda de Eletronica
+|   |-- Chaves Phillips de Eletronica
+|   |-- Chaves Torx e Allen de Eletronica
+|   |-- Facas a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Estiletes a) Comum; b) VDE c) Isolado nao VDE
+|   |-- Esquadros de Carpinteiro
+|   |-- Trenas (2m, 5m e 8m)
+|   |-- Nivel Bolha (pequeno, medio, grande e magnetico)
+|   |-- Grampeador
+|   |-- Pistola de Cola Quente
+|   |-- Brocas 
+|   |-- Bits
+|   |-- Bits de precisao
+|   |-- Discos de corte 
+|   |-- Discos para desbaste
+|   |-- Escovas de aço Manuais
+|   |-- Escovas de aco para parafusadeira
+|   |-- Materiais de pintura (pouca coisa)
+|   |-- Materiais de marcenaria (pouca coisa)
+|-- Ferramentas Elétricas
+|   |-- Furadeira 127V com fio
+|   |-- Parafusadeira sem fio
+|   |-- Esmerilhadeira
+Materiais de Medicao e Eletronica e TI
+|   |-- Alicate Amperimetro-Multimetro
+|   |-- Multimetro
+|   |-- Regua
+|   |-- Nivel bolha 
+|   |-- Caneta Detectora de Tensao
+|   |-- Paquimetro
+|   |-- Ponteiras de Prova
+|   |-- Fonte de Bancada Multitensao
+|   |-- Protoboards
+|   |-- Resistores
+|   |-- Capacitores
+|   |-- Transistores
+|   |-- Pulsadores
+|   |-- Pinças 
+|   |-- Espatulas
+|   |-- Pilhas AA, AAA
+|   |-- Baterias de 9V
+|   |-- Pilhas recarregaveis
+|   |-- Rack de TI
+|   |-- Regua de tomadas
+|   |-- Holofotes
+|   |-- Suporte magnetico para Ferramentas
+|   |-- Ferro de solda
+|   |-- Estanho para solda
+|   |-- Apoio de solda
+|   |-- Alcool Isopropilico
+|   |-- Fios AWG
+|   |-- Leds 
+Materiais de Armazenagem e EPIs
+|   |-- Mochila Eletricista
+|   |-- Bolsa Eletricista
+|   |-- Caixa de Ferramentas
+|   |-- Caixotes de bancada (pequeno, medio e grande)
+|   |-- Suporte modular com 32 caixinhas
+|   |-- Prateleiras
+|   |-- Coldre 
+|   |-- Cinto
+|   |-- Botina CA
+|   |-- Luvas Tacteis
+|   |-- Luvas de Raspa
+|   |-- Luvas 1000V
+|   |-- Luvas Nitrilicas
+|   |-- Lucas Anticorte
+|   |-- Luvas de Servicos Gerais
+|   |-- Estabilizador de Coluna
+|   |-- Suspensório
+|   |-- Oculos Protetores
+|   |-- Protetores Auriculares
+|   |-- Bancada de Trabalho Aterrada com Painel
+|   |-- Papel A3
+|   |-- Papel A4
+|   |-- Papel A4 milimetrado
+|   |-- Lapiseiras
+|   |-- Lapis
+|   |-- Canetas nanquim
+|   |-- Marcadores de obra
+|   |-- Lacres
+|   |-- Etiquetas
+|   |-- Etiquetadora 
+|   |-- Prancheta A4
+|   |-- Esquadro para desenho tecnico
+|   |-- Regua para desenho tecnico
+|   |-- Transferido para desenho tecnico
+|   |-- Compasso para desenho tecnico 
